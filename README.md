@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ohhtimothy Philosopher turned programmer/trader
-- 👀 I’m interested in Web3 mainly in Smart Contracts, Algorithmic trading, and Dapp Development
-- 🌱 I’m currently learning Solidity, Node.J, React 
+- 👀 I’m interested in Web3/Crypto mainly in Smart Contracts, Algorithmic trading, and Dapp Development
+- 🌱 I’m currently learning Solidity, Python, Flutter/ Dart 
 - 📫 Reach me through ohhtimothy@gmail.com
 
 <!---
